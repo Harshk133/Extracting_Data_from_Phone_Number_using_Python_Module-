@@ -2,7 +2,7 @@
 
 The main object that the library deals with is a PhoneNumber object. You can create this from a string representing a phone number using the parse function, but you also need to specify the country that the phone number is being dialled from (unless the number is in E.164 format, which is globally unique).
 
-![Logo](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/th5xamgrr6se0x5ro4g6.png)
+
 
 ## Installation
 
@@ -13,6 +13,12 @@ Install the Require modules of python!
 ```
   pip install phonenumbers
 ```
+<br/>
+<center>
+  
+![MugBit](https://github.com/Harshk133/Extracting_Data_from_Phone_Number_using_Python_Module-/assets/93035314/b46b6f2b-3073-4752-9a32-f0a273e7072d)
+
+</center>
 
 
 ## Usage/Examples
